@@ -95,10 +95,10 @@ Address	VARCHAR(255)	—
 Example records:
 
 CustomerID	Name	Email	Address
-1	Alice Sharma	alice@email.com	Chennai
-2	Bob Patel	bob@email.com	Delhi
-3	Charlie Khan	charlie@email.com	Bangalore
-4	Diana Mehta	diana@email.com	Pune
+1	Aniket Sharma	aniket@email.com	Chennai
+2	Brijesh Patel	brijesh@email.com	Delhi
+3	Sameer Khan	sameer@email.com	Bangalore
+4	harshad Mehta	harsahd@email.com	Pune
 2. Orders
 
 Stores customer order information.
